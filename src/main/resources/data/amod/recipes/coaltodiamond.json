@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "amod:comp_coal"
+    },
+    "result": "minecraft:diamond",
+    "experience": 8,
+    "cookingtime": 32000
+}

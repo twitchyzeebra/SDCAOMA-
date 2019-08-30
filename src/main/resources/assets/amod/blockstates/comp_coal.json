@@ -1,0 +1,5 @@
+{
+    "variants" : {
+        "": {"model": "amod:block/comp_coal"}
+    }
+}

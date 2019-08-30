@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:charcoal"
+    },
+    "result": "minecraft:coal",
+    "experience": 0.15,
+    "cookingtime": 100
+}

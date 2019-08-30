@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "amod:calimari"
+    },
+    "result": "amod:cooked_calimari",
+    "experience": 0.25,
+    "cookingtime": 200
+}
